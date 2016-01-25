@@ -31,7 +31,7 @@ UsedLibrary="/home/cptelectric/eagle-7.4.0/lbr/SparkFun-Eagle-Libraries/User-Sub
 
 [Win_1]
 Type="Control Panel"
-Loc="972 24 1896 1050"
+Loc="962 14 1886 1040"
 State=2
 Number=0
 
